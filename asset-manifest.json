@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wnkz/static/css/main.4e6c3588.css",
-    "main.js": "/wnkz/static/js/main.6334cf58.js",
+    "main.css": "/wnkz/static/css/main.2817ae82.css",
+    "main.js": "/wnkz/static/js/main.b0870813.js",
     "index.html": "/wnkz/index.html",
-    "main.4e6c3588.css.map": "/wnkz/static/css/main.4e6c3588.css.map",
-    "main.6334cf58.js.map": "/wnkz/static/js/main.6334cf58.js.map"
+    "main.2817ae82.css.map": "/wnkz/static/css/main.2817ae82.css.map",
+    "main.b0870813.js.map": "/wnkz/static/js/main.b0870813.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e6c3588.css",
-    "static/js/main.6334cf58.js"
+    "static/css/main.2817ae82.css",
+    "static/js/main.b0870813.js"
   ]
 }
